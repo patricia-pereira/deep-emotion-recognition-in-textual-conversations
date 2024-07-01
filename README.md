@@ -26,5 +26,5 @@ Work in progress
 
 - [Context-Dependent Embedding Utterance Representations for Emotion Recognition in Conversations](https://aclanthology.org/2023.wassa-1.21.pdf), Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis, ACL 2023 
 - [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://ojs.aaai.org/index.php/AAAI/article/view/6309), AAAI Conference on Artificial Intelligence 2020
-- [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations] (https://ojs.aaai.org/index.php/AAAI/article/view/4657), AAAI Conference on Artificial Intelligence 2019
-- [Analysis of Utterance Combinations for Emotion Recognition in Conversation] (https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3F5ES201/_pdf/-char/ja), Annual Conference of the Japanese Society for Artificial Intelligence 2020
+- [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://ojs.aaai.org/index.php/AAAI/article/view/4657), AAAI Conference on Artificial Intelligence 2019
+- [Analysis of Utterance Combinations for Emotion Recognition in Conversation](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3F5ES201/_pdf/-char/ja), Annual Conference of the Japanese Society for Artificial Intelligence 2020
