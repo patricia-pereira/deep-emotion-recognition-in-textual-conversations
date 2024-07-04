@@ -28,3 +28,14 @@ Work in progress
 - [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://ojs.aaai.org/index.php/AAAI/article/view/6309), AAAI Conference on Artificial Intelligence 2020
 - [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://ojs.aaai.org/index.php/AAAI/article/view/4657), AAAI Conference on Artificial Intelligence 2019
 - [Analysis of Utterance Combinations for Emotion Recognition in Conversation](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3F5ES201/_pdf/-char/ja), Annual Conference of the Japanese Society for Artificial Intelligence 2020
+- [An Iterative Emotion Interaction Network for Emotion Recognition in Conversations](https://aclanthology.org/2020.coling-main.360.pdf), International Conference on Computational Linguistics 2020
+- [Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations](https://dl.acm.org/doi/10.1145/3394171.3413949), ACM International Conference on Multimedia 2020
+- [COIN: Conversational Interactive Networks for Emotion Recognition in Conversation](https://aclanthology.org/2021.maiworkshop-1.3.pdf), Workshop on Multimodal Artificial Intelligence, ACL 2021
+- [A Self-Attentive Emotion Recognition Network](https://ieeexplore.ieee.org/abstract/document/9054762), ICASSP 2020
+- [Context-Dependent Sentiment Analysis in User-Generated Videos](https://aclanthology.org/P17-1081.pdf), ACL 2017
+- [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/document/9128015), IEEE Transactions on Affective Computing 2020
+- [BiERU: Bidirectional Emotional Recurrent Unit for Conversational Sentiment Analysis](https://arxiv.org/pdf/2006.00492), Neurocomputing 2022
+- [DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations](https://aclanthology.org/2021.acl-long.547.pdf), ACL-IJCNLP 2021
+- [Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos](https://aclanthology.org/N18-1193.pdf), NAACL 2018
+- [ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection](https://aclanthology.org/D18-1280.pdf), EMNLP 2018
+- [Different Contextual Window Sizes Based RNNs for Multimodal Emotion Detection in Interactive Conversations](https://ieeexplore.ieee.org/document/9127905), IEEE Acess 2020
