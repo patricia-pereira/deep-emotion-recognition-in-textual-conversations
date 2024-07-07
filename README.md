@@ -60,3 +60,15 @@ Work in progress
 ## Quantum-inspired Neural Network
 
 - [Quantum-inspired Neural Network for Conversational Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/17567), AAAI 21
+
+## Transformer
+
+- [Conversational Transfer Learning for Emotion Recognition](https://arxiv.org/pdf/1910.04980), Information Fusion 2021
+- [Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://aclanthology.org/D19-1016.pdf), EMNLP 2019
+- [Knowledge Aware Emotion Recognition in Textual Conversations via Multi-Task Incremental Transformer](https://aclanthology.org/2020.coling-main.392.pdf), COLING 2020
+- [Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection](https://aclanthology.org/2021.acl-long.125.pdf), ACL-IJCNLP 2021
+- [Directed Acyclic Graphs With Prototypical Networks for Few-Shot Emotion Recognition in Conversation](https://ieeexplore.ieee.org/document/10287935), IEEE Acess 2023
+- [A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation](https://aclanthology.org/2021.findings-emnlp.252.pdf), Findings EMNLP 2021
+- [HiTrans: A Transformer-Based Context- and Speaker-Sensitive Model for Emotion Detection in Conversations](https://aclanthology.org/2020.coling-main.370.pdf), COLING 2020
+
+...
