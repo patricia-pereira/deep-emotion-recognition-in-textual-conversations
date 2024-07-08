@@ -70,5 +70,37 @@ Work in progress
 - [Directed Acyclic Graphs With Prototypical Networks for Few-Shot Emotion Recognition in Conversation](https://ieeexplore.ieee.org/document/10287935), IEEE Acess 2023
 - [A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation](https://aclanthology.org/2021.findings-emnlp.252.pdf), Findings EMNLP 2021
 - [HiTrans: A Transformer-Based Context- and Speaker-Sensitive Model for Emotion Detection in Conversations](https://aclanthology.org/2020.coling-main.370.pdf), COLING 2020
-
-...
+- [COSMIC: COmmonSense knowledge for eMotion Identification in Conversations](https://aclanthology.org/2020.findings-emnlp.224.pdf), Findings EMNLP 2020
+- [Sentiment- Emotion- and Context-Guided Knowledge Selection Framework for Emotion Recognition in Conversations](https://ieeexplore.ieee.org/document/9956021), IEEE Transactions of Affective Computing 2022
+- [DialogXL: All-in-One XLNet for Multi-Party Conversation Emotion Recognition](https://cdn.aaai.org/ojs/17625/17625-13-21119-1-2-20210518.pdf), AAAI 2021
+- [Contrast and Generation Make BART a Good Dialogue Emotion Recognizer](https://cdn.aaai.org/ojs/21348/21348-13-25361-1-2-20220628.pdf), AAAI 2022
+- [Emotion Recognition in Conversation from Variable-Length Context](https://ieeexplore.ieee.org/document/10096161), ICASSP 2023
+- [Past, Present, and Future: Conversational Emotion Recognition through Structural Modeling of Psychological Knowledge](https://aclanthology.org/2021.findings-emnlp.104.pdf), Findings EMNLP 2021
+- [Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware Multi-Task Learning for Emotion Recognition in Conversations](https://aclanthology.org/2021.findings-emnlp.245.pdf), Findings EMNLP 2021
+- [Contextualized Emotion Recognition in Conversation as Sequence Tagging](https://aclanthology.org/2020.sigdial-1.23.pdf), SIGDIAL 2020
+- [Context or Knowledge is Not Always Necessary: A Contrastive Learning Framework for Emotion Recognition in Conversations](https://aclanthology.org/2023.findings-acl.883.pdf), Findings ACL 2023
+- [DualGATs: Dual Graph Attention Networks for Emotion Recognition in Conversations](https://aclanthology.org/2023.acl-long.408.pdf), ACL 2023
+- [Directed Acyclic Graph Network for Conversational Emotion Recognition](https://aclanthology.org/2021.acl-long.123.pdf), ACL 2021
+- [An Empirical Study on Multiple Knowledge from ChatGPT for Emotion Recognition in Conversations](https://aclanthology.org/2023.findings-emnlp.813.pdf), Findings EMNLP 2023
+- [Hybrid Curriculum Learning for Emotion Recognition in Conversation](https://cdn.aaai.org/ojs/21413/21413-13-25426-1-2-20220628.pdf), AAAI 2022
+- [DialogueEIN: Emotion Interaction Network for Dialogue Affective Analysis](https://aclanthology.org/2022.coling-1.57.pdf), COLING 2022
+- [S+PAGE: A Speaker and Position-Aware Graph Neural Network Model for Emotion Recognition in Conversation](https://aclanthology.org/2022.aacl-main.12.pdf), AACL 2022
+- [DialoguePCN: Perception and Cognition Network for Emotion Recognition in Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10356052), IEEE Acess 2023
+- [DialogueTRM: Exploring Multi-Modal Emotion Dynamics in Conversations](https://aclanthology.org/2021.findings-emnlp.229.pdf), Findings EMNLP 2021
+- [CMCF-SRNet: A Cross-Modality Context Fusion and Semantic Refinement Network for Emotion Recognition in Conversation](https://aclanthology.org/2023.acl-long.732.pdf), ACL 2023
+- [Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation](https://aclanthology.org/2022.emnlp-main.347.pdf), EMNLP 2022
+- [Cluster-Level Contrastive Learning for Emotion Recognition in Conversations](https://arxiv.org/pdf/2302.03508), IEEE Transactions of Affective Computing 2023
+- [DialogueLLM: Context and Emotion Knowledge-Tuned Large Language Models for Emotion Recognition in Conversations](https://arxiv.org/pdf/2310.11374), Preprint 2023
+- [Enhancing Emotion Recognition in Conversation via Multi-view Feature Alignment and Memorization](https://aclanthology.org/2023.findings-emnlp.842.pdf), Findings EMNLP 2023
+- [A Training-Free Debiasing Framework with Counterfactual Reasoning for Conversational Emotion Detection](https://aclanthology.org/2023.emnlp-main.967.pdf), EMNLP 2023
+- [Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition](https://aclanthology.org/2023.emnlp-main.996.pdf), EMNLP 2023
+- [InstructERC: Reforming Emotion Recognition in Conversation with a Multi-task Retrieval-based LLMs Framework](https://arxiv.org/pdf/2309.11911), Preprint 2023
+- [Multi-Scale Receptive Field Graph Model for Emotion Recognition in Conversations](https://ieeexplore.ieee.org/document/10094596), ICASSP 2023
+- [EmoCaps: Emotion Capsule based Model for Conversational Emotion Recognition](https://aclanthology.org/2022.findings-acl.126.pdf), Findings ACL 2022
+- [AutoML-Emo: Automatic Knowledge Selection Using Congruent Effect for Emotion Identification in Conversations](https://ieeexplore.ieee.org/document/9999285), IEEE Transactions of Affective Computing 2023
+- [Graph Based Network with Contextualized Representations of Turns in Dialogue](https://aclanthology.org/2021.emnlp-main.36.pdf), EMNLP 2021
+- [Sdtn: Speaker dynamics tracking network for emotion recognition in conversation](https://ieeexplore.ieee.org/document/10094810), ICASSP 2023
+- [MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations](https://aclanthology.org/2022.coling-1.612.pdf), COLING 2022
+- [Hierarchical Transformer Network for Utterance-level Emotion Recognition](https://arxiv.org/pdf/2002.07551), Applied Sciences 2020 
+- [A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation](https://aclanthology.org/2021.findings-emnlp.252.pdf), Findings EMNLP 2021
+- [Contextual Augmentation of Pretrained Language Models for Emotion Recognition in Conversations](https://aclanthology.org/2020.peoples-1.7.pdf), Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media, ACL 2020
