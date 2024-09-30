@@ -104,3 +104,27 @@ Work in progress
 - [Hierarchical Transformer Network for Utterance-level Emotion Recognition](https://arxiv.org/pdf/2002.07551), Applied Sciences 2020 
 - [A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation](https://aclanthology.org/2021.findings-emnlp.252.pdf), Findings EMNLP 2021
 - [Contextual Augmentation of Pretrained Language Models for Emotion Recognition in Conversations](https://aclanthology.org/2020.peoples-1.7.pdf), Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media, ACL 2020
+
+## Table 8
+
+## GRU
+
+- [A Deep Neural Framework for Contextual Affect Detection](https://arxiv.org/abs/2001.10169), International Conference on Neural Information Processing 2019
+
+## LSTM
+
+- [CoAStaL at SemEval-2019 Task 3: Affect Classification in Dialogue using Attentive BiLSTMs](https://aclanthology.org/S19-2026.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [EPITA-ADAPT at SemEval-2019 Task 3: Detecting emotions in textual conversations using deep learning models combination](https://aclanthology.org/S19-2035.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [ntuer at SemEval-2019 Task 3: Emotion Classification with Word and Sentence Representations in RCNN](https://aclanthology.org/S19-2048.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [THU_NGN at SemEval-2019 Task 3: Dialog Emotion Classification using Attentional LSTM-CNN](https://aclanthology.org/S19-2059.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [PKUSE at SemEval-2019 Task 3: Emotion Detection with Emotion-Oriented Neural Attention Network](https://aclanthology.org/S19-2049.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [MILAB at SemEval-2019 Task 3: Multi-View Turn-by-Turn Model for Context-Aware Sentiment Analysis](https://aclanthology.org/S19-2043.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [LIRMM-Advanse at SemEval-2019 Task 3: Attentive Conversation Modeling for Emotion Detection and Classification](https://aclanthology.org/S19-2042.pdf), 13th International Workshop on Semantic Evaluation 201
+- [YUN-HPCC at SemEval-2019 Task 3: Multi-Step Ensemble Neural Network for Sentiment Analysis in Textual Conversation](https://aclanthology.org/S19-2063.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [NELEC at SemEval-2019 Task 3: Think Twice Before Going Deep](https://aclanthology.org/S19-2045.pdf), 13th International Workshop on Semantic Evaluation 2019
+
+## Transfrormer
+
+- [Figure eight at semeval-2019 task 3: ensemble of transfer learning methods for contextual emotion detection](https://aclanthology.org/S19-2036.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [CAiRE_HKUST at SemEval-2019 Task 3: Hierarchical Attention for Dialogue Emotion Classification](https://aclanthology.org/S19-2021v2.pdf), 13th International Workshop on Semantic Evaluation 2019
+- [ANA at SemEval-2019 Task 3: Contextual Emotion detection in Conversations through hierarchical LSTMs and BERT](https://aclanthology.org/S19-2006.pdf), 13th International Workshop on Semantic Evaluation 2019
