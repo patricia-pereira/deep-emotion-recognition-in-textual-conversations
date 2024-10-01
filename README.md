@@ -123,7 +123,7 @@ Work in progress
 - [YUN-HPCC at SemEval-2019 Task 3: Multi-Step Ensemble Neural Network for Sentiment Analysis in Textual Conversation](https://aclanthology.org/S19-2063.pdf), International Workshop on Semantic Evaluation 2019
 - [NELEC at SemEval-2019 Task 3: Think Twice Before Going Deep](https://aclanthology.org/S19-2045.pdf), International Workshop on Semantic Evaluation 2019
 
-## Transfrormer
+## Transformer
 
 - [Figure eight at semeval-2019 task 3: ensemble of transfer learning methods for contextual emotion detection](https://aclanthology.org/S19-2036.pdf), International Workshop on Semantic Evaluation 2019
 - [CAiRE_HKUST at SemEval-2019 Task 3: Hierarchical Attention for Dialogue Emotion Classification](https://aclanthology.org/S19-2021v2.pdf), International Workshop on Semantic Evaluation 2019
