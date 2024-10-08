@@ -16,8 +16,6 @@ Work in progress
 - [MELD](https://www.aclweb.org/anthology/P19-1050.pdf), ACL 2019
 - [EmoryNLP](https://cdn.aaai.org/ocs/ws/ws0433/16434-75921-1-PB.pdf), Workshop on Affective Content Analysis, 2018
 - [DailyDialog](https://www.aclweb.org/anthology/I17-1099.pdf), AFNLP 2017
-- [Emotionlines](https://www.aclweb.org/anthology/L18-1252.pdf), LREC 2018
-- [EmoContext](https://aclanthology.org/S19-2005.pdf), International Workshop on Semantic Evaluation 2019
 - [SEMAINE](https://semaine-db.eu), IEEE Transactions on Affective Computing 2012
 - [RECOLA](https://ieeexplore.ieee.org/document/6553805), IEEE international conference and workshops on automatic face and gesture recognition 2013
 - [SILICONE](https://aclanthology.org/2020.findings-emnlp.239.pdf), Findings of the Association for Computational Linguistics: EMNLP 2020
@@ -28,19 +26,15 @@ Work in progress
 
 ## GRU
 
-- [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://ojs.aaai.org/index.php/AAAI/article/view/6309), AAAI Conference on Artificial Intelligence 2020
-- [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://ojs.aaai.org/index.php/AAAI/article/view/4657), AAAI Conference on Artificial Intelligence 2019
-- [Analysis of Utterance Combinations for Emotion Recognition in Conversation](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3F5ES201/_pdf/-char/ja), Annual Conference of the Japanese Society for Artificial Intelligence 2020
+- [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://ojs.aaai.org/index.php/AAAI/article/view/6309), AAAI 2020
+- [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://ojs.aaai.org/index.php/AAAI/article/view/4657), AAAI 2019
 - [An Iterative Emotion Interaction Network for Emotion Recognition in Conversations](https://aclanthology.org/2020.coling-main.360.pdf), COLING 2020
-- [Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations](https://dl.acm.org/doi/10.1145/3394171.3413949), ACM International Conference on Multimedia 2020
-- [COIN: Conversational Interactive Networks for Emotion Recognition in Conversation](https://aclanthology.org/2021.maiworkshop-1.3.pdf), Workshop on Multimodal Artificial Intelligence, ACL 2021
 
 ## LSTM
 
 - [A Self-Attentive Emotion Recognition Network](https://ieeexplore.ieee.org/abstract/document/9054762), ICASSP 2020
 - [Context-Dependent Sentiment Analysis in User-Generated Videos](https://aclanthology.org/P17-1081.pdf), ACL 2017
 - [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/document/9128015), IEEE Transactions on Affective Computing 2020
-- [BiERU: Bidirectional Emotional Recurrent Unit for Conversational Sentiment Analysis](https://arxiv.org/pdf/2006.00492), Neurocomputing 2022
 - [DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations](https://aclanthology.org/2021.acl-long.547.pdf), ACL-IJCNLP 2021
 
 ## Memory Network
@@ -63,13 +57,11 @@ Work in progress
 
 ## Transformer
 
-- [Conversational Transfer Learning for Emotion Recognition](https://arxiv.org/pdf/1910.04980), Information Fusion 2021
 - [Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://aclanthology.org/D19-1016.pdf), EMNLP 2019
 - [Knowledge Aware Emotion Recognition in Textual Conversations via Multi-Task Incremental Transformer](https://aclanthology.org/2020.coling-main.392.pdf), COLING 2020
 - [Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection](https://aclanthology.org/2021.acl-long.125.pdf), ACL-IJCNLP 2021
 - [Directed Acyclic Graphs With Prototypical Networks for Few-Shot Emotion Recognition in Conversation](https://ieeexplore.ieee.org/document/10287935), IEEE Acess 2023
 - [A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation](https://aclanthology.org/2021.findings-emnlp.252.pdf), Findings EMNLP 2021
-- [HiTrans: A Transformer-Based Context- and Speaker-Sensitive Model for Emotion Detection in Conversations](https://aclanthology.org/2020.coling-main.370.pdf), COLING 2020
 - [COSMIC: COmmonSense knowledge for eMotion Identification in Conversations](https://aclanthology.org/2020.findings-emnlp.224.pdf), Findings EMNLP 2020
 - [Sentiment- Emotion- and Context-Guided Knowledge Selection Framework for Emotion Recognition in Conversations](https://ieeexplore.ieee.org/document/9956021), IEEE Transactions of Affective Computing 2022
 - [DialogXL: All-in-One XLNet for Multi-Party Conversation Emotion Recognition](https://cdn.aaai.org/ojs/17625/17625-13-21119-1-2-20210518.pdf), AAAI 2021
@@ -101,33 +93,4 @@ Work in progress
 - [Graph Based Network with Contextualized Representations of Turns in Dialogue](https://aclanthology.org/2021.emnlp-main.36.pdf), EMNLP 2021
 - [Sdtn: Speaker dynamics tracking network for emotion recognition in conversation](https://ieeexplore.ieee.org/document/10094810), ICASSP 2023
 - [MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations](https://aclanthology.org/2022.coling-1.612.pdf), COLING 2022
-- [Hierarchical Transformer Network for Utterance-level Emotion Recognition](https://arxiv.org/pdf/2002.07551), Applied Sciences 2020 
 - [A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation](https://aclanthology.org/2021.findings-emnlp.252.pdf), Findings EMNLP 2021
-- [Contextual Augmentation of Pretrained Language Models for Emotion Recognition in Conversations](https://aclanthology.org/2020.peoples-1.7.pdf), Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media, ACL 2020
-
-## Table 8
-
-## GRU
-
-- [A Deep Neural Framework for Contextual Affect Detection](https://arxiv.org/abs/2001.10169), International Conference on Neural Information Processing 2019
-
-## LSTM
-
-- [CoAStaL at SemEval-2019 Task 3: Affect Classification in Dialogue using Attentive BiLSTMs](https://aclanthology.org/S19-2026.pdf), International Workshop on Semantic Evaluation 2019
-- [EPITA-ADAPT at SemEval-2019 Task 3: Detecting emotions in textual conversations using deep learning models combination](https://aclanthology.org/S19-2035.pdf), International Workshop on Semantic Evaluation 2019
-- [ntuer at SemEval-2019 Task 3: Emotion Classification with Word and Sentence Representations in RCNN](https://aclanthology.org/S19-2048.pdf), International Workshop on Semantic Evaluation 2019
-- [THU_NGN at SemEval-2019 Task 3: Dialog Emotion Classification using Attentional LSTM-CNN](https://aclanthology.org/S19-2059.pdf), International Workshop on Semantic Evaluation 2019
-- [PKUSE at SemEval-2019 Task 3: Emotion Detection with Emotion-Oriented Neural Attention Network](https://aclanthology.org/S19-2049.pdf), International Workshop on Semantic Evaluation 2019
-- [MILAB at SemEval-2019 Task 3: Multi-View Turn-by-Turn Model for Context-Aware Sentiment Analysis](https://aclanthology.org/S19-2043.pdf), International Workshop on Semantic Evaluation 2019
-- [LIRMM-Advanse at SemEval-2019 Task 3: Attentive Conversation Modeling for Emotion Detection and Classification](https://aclanthology.org/S19-2042.pdf), International Workshop on Semantic Evaluation 201
-- [YUN-HPCC at SemEval-2019 Task 3: Multi-Step Ensemble Neural Network for Sentiment Analysis in Textual Conversation](https://aclanthology.org/S19-2063.pdf), International Workshop on Semantic Evaluation 2019
-- [NELEC at SemEval-2019 Task 3: Think Twice Before Going Deep](https://aclanthology.org/S19-2045.pdf), International Workshop on Semantic Evaluation 2019
-
-## Transformer
-
-- [Figure eight at semeval-2019 task 3: ensemble of transfer learning methods for contextual emotion detection](https://aclanthology.org/S19-2036.pdf), International Workshop on Semantic Evaluation 2019
-- [CAiRE_HKUST at SemEval-2019 Task 3: Hierarchical Attention for Dialogue Emotion Classification](https://aclanthology.org/S19-2021v2.pdf), International Workshop on Semantic Evaluation 2019
-- [ANA at SemEval-2019 Task 3: Contextual Emotion detection in Conversations through hierarchical LSTMs and BERT](https://aclanthology.org/S19-2006.pdf), International Workshop on Semantic Evaluation 2019
-- [EmotionX-IDEA: Emotion BERT - an Affectional Model for Conversation](https://arxiv.org/pdf/1908.06264), ArXiv 2019
-- [HAN-ReGRU: hierarchical attention network with residual gated recurrent unit for emotion recognition in conversation](https://link.springer.com/article/10.1007/s00521-020-05063-7), Neural Computing and Applications 2021
-- [CAN-GRU: a Hierarchical Model for Emotion Recognition in Dialogue](https://aclanthology.org/2020.ccl-1.102.pdf), Chinese National Conference on Computational Linguistics 2020
